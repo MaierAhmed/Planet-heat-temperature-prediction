@@ -89,7 +89,7 @@ Click Predict.
 View:
 
 Predicted average temperature.
-
+Hello how are you
 Historical temperature trend vs predicted data.
 
 Optionally, click Predict Again to run another forecast.
@@ -103,4 +103,5 @@ planetheat/
 ├── templates/              # HTML templates
 ├── notebooks/              # Jupyter notebooks for ML model
 ├── data/                   # Dataset files
+
 └── README.md               # Project documentation
