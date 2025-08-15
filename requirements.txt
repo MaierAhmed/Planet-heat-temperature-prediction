@@ -1,0 +1,8 @@
+pandas
+joblib
+numpy 
+scikit-learn 
+matplotlib 
+seaborn 
+missingno
+flask
