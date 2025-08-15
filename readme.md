@@ -41,10 +41,10 @@ PlanetHeat offers a **user-friendly web application** that delivers real-time cl
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend:** HTML5, CSS3, Bootstrap 5, Select2, Plotly.js
 - **Backend:** Flask (Python)
-- **Machine Learning:** scikit-learn, pandas, numpy, matplotlib, TensorFlow/Keras
+- **Machine Learning:** scikit-learn, pandas, numpy, matplotlib
 - **Data Visualization:** Plotly, Matplotlib
 - **Development Tools:** Jupyter Notebook, Google Colab
 
@@ -105,3 +105,4 @@ planetheat/
 ├── data/                   # Dataset files
 
 └── README.md               # Project documentation
+
